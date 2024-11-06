@@ -1,44 +1,63 @@
-```ascii
-     DATA | CODE | CREATE
-          ┌─┐       ┌─┐
-       ┌──┘ ┴───────┘ ┴──┐
-       │                 │
-       │    Kesara L.    │
-       │  Data Scientist │
-       │                 │
-       └───┐         ┐───┘
-           │         │
-           └──┐   ┌──┘
-              │   │
+```js
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀
+⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀
+⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀
+⠀⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀
 ```
 
-### `whoami`
+<h1 align="center">
+  <!-- Add some cool emojis with meaning -->
+  🔮 | K E S A R A | 💻
+</h1>
+
+<p align="center"><i>Turning Coffee into Code and Data into Stories</i></p>
+
 ```python
-def kesara():
-    return {
-        "passions": ["data_science", "problem_solving", "cricket"],
-        "languages": ["python", "R", "javascript"],
-        "tools": ["aws", "power_bi", "opencv"],
-        "currently": "turning_data_into_insights"
-    }
+class DataArtist:
+    def __init__(self):
+        self.creativity = float('inf')
+        self.mode = ['Data Science', 'Problem Solving']
+        self.status = "Drawing patterns in data 🎨"
 ```
 
-### `latest_projects`
+<div align="center">
+  
+  ### Tools of Creativity 🎨
+  
+  `python` **|** `R` **|** `aws` **|** `power bi` **|** `data magic`
+  
+  ![Coding GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6977F7&center=true&vCenter=true&random=false&width=435&lines=Building+data-driven+solutions;Creating+visual+stories;Exploring+new+patterns)
+
+</div>
+
 ```sql
-SELECT project_name, description FROM projects
-WHERE status = 'active' 
-ORDER BY impact DESC 
-LIMIT 2;
-
--- Result:
--- 1. Urban_Tour: Solving transportation challenges with data
--- 2. Road Safety: Making streets smarter through analytics
+-- Currently Broadcasting...
+SELECT life FROM universe
+WHERE passion = 'data_science'
+  AND creativity > 9000
+  AND status = 'debugging_life';
 ```
 
-### `github_stats`
-![Stats](https://github-readme-stats.vercel.app/api?username=42Kesara&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+<div align="center">
+  
+  ### Recent Data Art 🎭
+  
+  [![Stats](https://github-readme-stats.vercel.app/api?username=42Kesara&show_icons=true&hide_border=true&bg_color=00000000&text_color=6977F7&icon_color=6977F7&title_color=6977F7&hide_title=true)](https://github.com/42Kesara)
+  
+</div>
 
-### `connect_with_me`
 ```bash
-echo "kesaralakpriya99@gmail.com"
+# Initialize contact
+echo "kesaralakpriya99@gmail.com" > reach_out.txt
 ```
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=42Kesara&color=6977F7&style=flat-square)
+  
+</div>
+
+<!--
+Fun fact: This profile README was crafted with ❤️ and a lot of ☕
+-->
