@@ -54,7 +54,7 @@ echo "kesaralakpriya99@gmail.com" > reach_out.txt
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=42Kesara&color=6977F7&style=flat-square)
+
   
 </div>
 
