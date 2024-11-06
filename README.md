@@ -1,47 +1,44 @@
-# Hi, I'm Kesara 📊
-
-Data Science undergraduate at SLTC Research University with a focus on analytics and machine learning.
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Kesara Lakpriya"
-        self.role = "Data Science Student"
-        self.skills = {
-            "languages": ["Python", "R", "SQL"],
-            "data_analysis": ["Pandas", "NumPy", "Power BI"],
-            "visualization": ["Power BI", "Excel"],
-            "cloud": ["AWS", "Oracle Cloud"]
-        }
-        
-    def current_focus(self):
-        return ["Machine Learning", "Data Analysis", "Web Development"]
-
+```ascii
+     DATA | CODE | CREATE
+          ┌─┐       ┌─┐
+       ┌──┘ ┴───────┘ ┴──┐
+       │                 │
+       │    Kesara L.    │
+       │  Data Scientist │
+       │                 │
+       └───┐         ┐───┘
+           │         │
+           └──┐   ┌──┘
+              │   │
 ```
 
-## 📈 Projects
+### `whoami`
+```python
+def kesara():
+    return {
+        "passions": ["data_science", "problem_solving", "cricket"],
+        "languages": ["python", "R", "javascript"],
+        "tools": ["aws", "power_bi", "opencv"],
+        "currently": "turning_data_into_insights"
+    }
+```
 
-### Urban_Tour | Data-Driven Transportation Solution
-- Built automated fuel quota system using computer vision
-- Implemented vehicle recognition system with OpenCV
-- Tech: Python, AWS, OpenCV
+### `latest_projects`
+```sql
+SELECT project_name, description FROM projects
+WHERE status = 'active' 
+ORDER BY impact DESC 
+LIMIT 2;
 
-### Road Safety Analytics System
-- Developed accident monitoring and analysis platform
-- Created data visualization dashboard
-- Tech: Python, JavaScript, OpenCV
+-- Result:
+-- 1. Urban_Tour: Solving transportation challenges with data
+-- 2. Road Safety: Making streets smarter through analytics
+```
 
-## 🎓 Certifications
-- Oracle Cloud Infrastructure 2024 Generative AI Professional
-- Data Analytics (LinkedIn Learning)
-- Introduction to IoT (Cisco)
+### `github_stats`
+![Stats](https://github-readme-stats.vercel.app/api?username=42Kesara&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=42Kesara&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=42Kesara&layout=compact&theme=dark&hide_border=true)](https://github.com/42Kesara)
-
-## 📫 Connect
-- 📧 kesaralakpriya99@gmail.com
-- 💼 [LinkedIn Profile]
+### `connect_with_me`
+```bash
+echo "kesaralakpriya99@gmail.com"
+```
