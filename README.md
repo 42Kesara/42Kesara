@@ -1,27 +1,47 @@
-# 👋 Hi there, I'm [Your Name]
+# Hi, I'm Kesara 📊
 
-## 🚀 About Me
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [Technology/Skill]
-- 👯 I'm looking to collaborate on [Interest Area]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email/Social Links]
+Data Science undergraduate at SLTC Research University with a focus on analytics and machine learning.
 
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Kesara Lakpriya"
+        self.role = "Data Science Student"
+        self.skills = {
+            "languages": ["Python", "R", "SQL"],
+            "data_analysis": ["Pandas", "NumPy", "Power BI"],
+            "visualization": ["Power BI", "Excel"],
+            "cloud": ["AWS", "Oracle Cloud"]
+        }
+        
+    def current_focus(self):
+        return ["Machine Learning", "Data Analysis", "Web Development"]
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+```
 
-## 🏆 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)](https://github.com/YourGitHubUsername)
+## 📈 Projects
 
-## 📊 This Week I Spent My Time On
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### Urban_Tour | Data-Driven Transportation Solution
+- Built automated fuel quota system using computer vision
+- Implemented vehicle recognition system with OpenCV
+- Tech: Python, AWS, OpenCV
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your-Twitter-URL)
+### Road Safety Analytics System
+- Developed accident monitoring and analysis platform
+- Created data visualization dashboard
+- Tech: Python, JavaScript, OpenCV
+
+## 🎓 Certifications
+- Oracle Cloud Infrastructure 2024 Generative AI Professional
+- Data Analytics (LinkedIn Learning)
+- Introduction to IoT (Cisco)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=42Kesara&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=42Kesara&layout=compact&theme=dark&hide_border=true)](https://github.com/42Kesara)
+
+## 📫 Connect
+- 📧 kesaralakpriya99@gmail.com
+- 💼 [LinkedIn Profile]
